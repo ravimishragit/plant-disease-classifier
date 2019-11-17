@@ -1,0 +1,29 @@
+title: Plant disease Classifier
+description: Classify plant disease using deep learning
+about:
+
+  This is a Plant Disease Classifier which detects plant disease from the plant's leaf.
+  Models are trained on the preprocessed dataset.Dataset is consisted of 38 disease classes from PlantVillage dataset.
+  This project is completed by Ravi Mishra. For any query please feel free to contact hdpravi@gmail.com. 
+ 
+
+reference:
+  Thanks a lot to Shubham Kumar ( https://github.com/imskr/Plant_Disease_Detection) , Nidhin Pattaniyil Nidhin and Reshama Shaikh (https://github.com/npatta01/web-deep-learning-classifier). 
+ 
+
+  
+
+
+
+
+
+
+code: https://github.com/ravimishragit/plant-disease-classifier
+
+sampleImages:
+  - name: Tomato Late blight
+    url: https://www.thespruce.com/thmb/UeDwIv_qCF1hg5utocyYAJ0dQdk=/960x0/filters:no_upscale():max_bytes(150000):strip_icc()/Late-Blight-56a34bc55f9b58b7d0d15210.jpg
+  - name: Strawberry Leaf scorch
+    url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Mycosphaerella_fragariae.jpg/220px-Mycosphaerella_fragariae.jpg
+  - name: Corn (maize) Cercospora leaf spot Gray leaf spot
+    url: https://crop-protection-network.s3.amazonaws.com/articles/photos/Gray-leaf-spot-Daren-Mueller-9.jpg
