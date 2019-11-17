@@ -1,1 +1,12 @@
-# plant-disease-classifier
+Plant disease classifier app
+
+
+ 
+
+
+ 
+
+ 
+ 
+ 
+
